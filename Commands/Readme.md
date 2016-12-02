@@ -1,6 +1,6 @@
 ## Create basic command.
 
-- See in BasicCommand.php
+- See in BasicCommands.php
 
 ```php
   // function onCommand($sender, $command, $label, $args)
